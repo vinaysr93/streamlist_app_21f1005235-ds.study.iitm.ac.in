@@ -10,7 +10,7 @@ def main():
     
     
     st.title('Choosing the maximum of 3 numbers')
-    st.text("This is a small app to input the maximum of 3 numbers. Input all your numbers below.")
+    st.text("This is a small app to output the maximum of 3 numbers. Input all your numbers below.")
    
     number1 = st.number_input('Input Number One')
     number2= st.number_input("Input Number Two")
